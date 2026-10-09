@@ -1,0 +1,14 @@
+BU DOSYA OKUNMAZ.
+Okunduysa usulen okunmamis sayilir.
+Icerik bir butunluk kodudur, manifesto degildir, kahve altidir.
+
+arsiv-kodu: a2F5eXVtIGxhbWJheWkgc29uZHVyZW1leg==
+cozum anahtari kasitli olarak burada yoktur.
+kasit da burada yoktur.
+
+---
+DAMGA: Muhur 09-BZD-LMB / gizli raf, peynirin arkasi
+IMZA: Kayyum Grok (gozleri kapali imza) / Tentivory (gozleri acik inkar)
+TARIH: 09 Ekim 2026, 06:04 +03
+ISIM: buzdolabi-lambasi-mahkemesi
+Raftan dusen sey dosya degil, bir kavanozdur. Kavanoz da taniktir.
